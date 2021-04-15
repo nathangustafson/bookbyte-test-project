@@ -1,6 +1,8 @@
-This project is my work sample towards the tasks outlined below.
+This project is my work sample towards the tasks outlined below.  
 
-The following was pulled from the task's source repository which is linked to below as the Example Repository.
+The project files have been committed to match the file structure of the sample project which is different than what PyCharm loaded on my behalf.  I have adjusted the reference in azure-pipelines.yaml to match my project name and file name but have not tested this as a Linux Python app within an Azure App Service and as such have not confirmed it will work there.  As I do not have access to Bookbyte's Azure, the referenced pipeline isn't available for me to test with, however, the application does run locally in PyCharm.
+
+The following was pulled from the task's source repository which is linked below as the Example Repository.
 
 
 
